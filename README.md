@@ -1,2 +1,2 @@
-# foto-feedback
-foto feedback repo.
+# fotoo-feedback
+fotoo feedback repo.
